@@ -1,0 +1,10 @@
+D:\Resources\项目\Crtysuall\Output\AcrDemo\CryWMG.deps.json
+D:\Resources\项目\Crtysuall\Output\AcrDemo\CryWMG.dll
+D:\Resources\项目\Crtysuall\Output\AcrDemo\CryWMG.pdb
+D:\Resources\项目\Crtysuall\CryWMG\obj\Debug\CryWMG.csproj.AssemblyReference.cache
+D:\Resources\项目\Crtysuall\CryWMG\obj\Debug\CryWMG.GeneratedMSBuildEditorConfig.editorconfig
+D:\Resources\项目\Crtysuall\CryWMG\obj\Debug\CryWMG.AssemblyInfoInputs.cache
+D:\Resources\项目\Crtysuall\CryWMG\obj\Debug\CryWMG.AssemblyInfo.cs
+D:\Resources\项目\Crtysuall\CryWMG\obj\Debug\CryWMG.csproj.CoreCompileInputs.cache
+D:\Resources\项目\Crtysuall\CryWMG\obj\Debug\CryWMG.dll
+D:\Resources\项目\Crtysuall\CryWMG\obj\Debug\CryWMG.pdb
